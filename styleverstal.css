@@ -358,7 +358,7 @@ background-color: #eda408;
 .section--map {
   background-color: #e6e6e6;
   padding: 60px 0;
-  background: url("../verstarlingtrainig/images/map/map-bg.jpg")
+  background: url("images/map/map-bg.jpg")
   center no-repeat;
   background-size: cover;
 }
