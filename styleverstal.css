@@ -45,7 +45,7 @@ justify-content: center;
   position: relative;
   /*щоб блок слайдера позиціюувався відносно інтро*/
 
-  background: url("../verstarlingtrainig/images/intro.jpg") center no-repeat;/*картинка*/
+  background: url("images/intro.jpg") center no-repeat;/*картинка*/
   background-size: cover;
 }
 
@@ -345,7 +345,7 @@ background-color: #eda408;
 
 .section--devices {
   margin-bottom: 40px;
-  background: url("../verstarlingtrainig/images/device/ozero.jpg")
+  background: url("images/device/ozero.jpg")
   center no-repeat;
   background-size: cover;
   padding-bottom: 0;
